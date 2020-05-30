@@ -9,4 +9,4 @@ In our code pattern, we will provide another option. If the customer question is
 youtubelink:-https://youtu.be/cf_N3T1LE-8
 
 
-chatbot:-https://node-red-srlan.eu-gb.mybluemix.net/ui
+chatbot:-https://node-red-gargsul.eu-gb.mybluemix.net/ui/#!/0?socketid=wl7_0d3IJjx0tHbLAABk
